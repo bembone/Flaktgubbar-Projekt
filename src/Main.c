@@ -5,7 +5,7 @@
 
 int main(void){
 
-    initSensor;
+    initSensor();
     int32_t duty = 0;
     int32_t diff = 0;
 
