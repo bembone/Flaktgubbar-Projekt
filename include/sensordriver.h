@@ -6,11 +6,6 @@
 
 #define I2C_ADDR    0x39    // SENSOR I2C ADDRESS
 
-//#define SDA         TRISB7
-//#define SCL         TRISB6
-//#define SDA_IN      PB11
-//#define SCL_IN      PB10
-
 #define ENABLE      0x80    // ENABLE REGISTER
 #define ATIME       0x81    
 #define WTIME       0x83
