@@ -31,8 +31,8 @@ int main(void){
     i2c_enable(I2C0);
 
     uint8_t state=1;
-    char flakt[3];
-    uint8_t styrka=0;
+    //char flakt[3];
+    //uint8_t styrka=0;
     uint8_t gest; // RIGHT = 1, LEFT = 2, DOWN = 3, UP = 4
 
     while(1){
